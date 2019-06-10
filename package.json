@@ -27,8 +27,8 @@
   "dependencies": {
     "@ember/jquery": "^0.6.0",
     "ember-cli-babel": "^7.1.2",
-    "ember-cli-htmlbars": "^3.0.0",
-    "ember-data-table": "^1.0.1"
+    "ember-data-table": "git+https://github.com/gnazarkin/ember-data-table.git#dev",
+    "ember-cli-htmlbars": "^3.0.0"
   },
   "devDependencies": {
     "@ember/optional-features": "^0.6.4",
